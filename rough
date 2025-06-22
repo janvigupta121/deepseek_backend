@@ -1,0 +1,15 @@
+sk-f947789456e44287be4849065f8509c2
+
+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
+
+"mongodb+srv://janvig553:Lu2ET7zxg94PrFtB@cluster0.rm6zrhn.mongodb.net/deepseek?retryWrites=true&w=majority&appName=Cluster0"
+
+PORT=4000
+MONGO_URI="mongodb+srv://janvig553:Lu2ET7zxg94PrFtB@cluster0.rm6zrhn.mongodb.net/deepseek?retryWrites=true&w=majority&appName=Cluster0"
+JWT_PASSWORD="user12345678"
+
+NODE_ENV=development
+
+OPENROUTER_API_KEY=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
+
+seek=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
